@@ -1,9 +1,7 @@
 
-<h1 align="center"> Hi 👋🏻, I'm Vishwa Gaurav </br> 
+<h1 align="center"> Hi , I'm Vishwa Gaurav </br> 
 </h1>
 <p align="center">  <b>ϟ</b> I love Creating new things and currently, I am doing <b>Web Development ϟ </b></p>
-
-# 💫 About Me: VISHWA SHAH
 
 🔭 I’m currently working on Web Dev<br>👯 I’m looking to collaborate on Full Stack Developer<br>🤝 I’m looking for help with IT Fresher<br>🌱 I’m currently learning Python, Java, C, C++, Java Script, CSS and HTML<br>💬 Ask me about My Projects and Activities<br>⚡ Fun fact  NASA still uses programs from the 70s in their spacecraft
 
