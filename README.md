@@ -20,6 +20,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=9vishwashah&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=9vishwashah&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=9vishwashah&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+
 ## Tech Stack 💻
 #### Languages
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
