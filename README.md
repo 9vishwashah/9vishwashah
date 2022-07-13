@@ -7,13 +7,13 @@
 
 🔭 I’m currently working on Web Dev<br>👯 I’m looking to collaborate on Full Stack Developer<br>🤝 I’m looking for help with IT Fresher<br>🌱 I’m currently learning Python, Java, C, C++, Java Script, CSS and HTML<br>💬 Ask me about My Projects and Activities<br>⚡ Fun fact  NASA still uses programs from the 70s in their spacecraft
 
+![](https://komarev.com/ghpvc/?username=9vishwashah&color=orange&style=plastic)
+
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwa-alpesh-shah-9594503214va/) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/9vishwashah) 
 
-
-![](https://komarev.com/ghpvc/?username=9vishwashah&color=blueviolet&style=plastic)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=9vishwashah&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
