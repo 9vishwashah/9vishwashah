@@ -11,7 +11,7 @@
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/9vishwashah) 
 
 ![](https://komarev.com/ghpvc/?username=9vishwashah)
-![](https://komarev.com/ghpvc/?username=9vishwashah&color=green& style=plastic)
+![](https://komarev.com/ghpvc/?username=9vishwashah&color=green&style=plastic)
 
 ## Tech Stack 💻
 #### Languages
