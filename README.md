@@ -88,6 +88,4 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=9vishwashah&icon=0&color=7)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=9vishwashah&label=Profile%20Views&color=11&icon=1&pretty=false)](https://visitcount.itsvg.in)
