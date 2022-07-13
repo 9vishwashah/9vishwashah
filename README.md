@@ -88,6 +88,3 @@
 ### 😂 Random Dev Meme
 
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=9vishwashah&label=Profile%20Views&color=11&icon=1&pretty=false)](https://visitcount.itsvg.in)
