@@ -94,13 +94,6 @@
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
-### 😂 Random Dev Meme
-
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ### Recent GitHub Activity ⚡
 <a href="https://github.com/9vishwashah"><img alt="vishwa Shah's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=9vishwashah&custom_title=Vishwa's%20Contribution%20Graph&theme=react-dark" /></a>
