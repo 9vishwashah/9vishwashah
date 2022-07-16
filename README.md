@@ -92,3 +92,6 @@
 ### 😂 Random Dev Meme
 
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+### Recent GitHub Activity ⚡
+<a href="https://github.com/9vishwashah"><img alt="vishwa Shah's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=9vishwashah&custom_title=Vishwa's%20Contribution%20Graph&theme=react-dark" /></a>
