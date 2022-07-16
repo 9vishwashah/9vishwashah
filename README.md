@@ -14,6 +14,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwa-alpesh-shah-9594503214va/) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/9vishwashah) 
 
+Check out some of my more interesting/stand-out github projects (in no particular order):
+
+| Project | Language/Tools/Sevices | Description | Link |
+| --- |:---:| --- | --- |
+| Portfolio Website | CSS, JS, HTML  | An interface that will help the needy to find donors near their location using Google Maps. | [Link](https://alpeshdshah.netlify.app/) |
+
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=9vishwashah&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
