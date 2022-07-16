@@ -14,11 +14,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwa-alpesh-shah-9594503214va/) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/9vishwashah) 
 
-Check out some of my more interesting/stand-out github projects (in no particular order):
 
+
+## PROJECTS:
 | Project | Language/Tools/Sevices | Description | Link |
 | --- |:---:| --- | --- |
-| Portfolio Website | CSS, JS, HTML  | An interface that will help the needy to find donors near their location using Google Maps. | [Link](https://alpeshdshah.netlify.app/) |
+| Portfolio Website | CSS, JS, HTML  | A Portfolio Webpage which consists all the details of Resume, Qualification and Personal Biodata | [Link](https://alpeshdshah.netlify.app/) |
 
 
 
