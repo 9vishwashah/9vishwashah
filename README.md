@@ -29,9 +29,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=9vishwashah&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=9vishwashah&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
 ## 🏆 GITHUB TROPHY
-![](https://github-profile-trophy.vercel.app/?username=9vishwashah&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=9vishwashah&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=9vishwashah&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)<a  /></a> </p>
+  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="300" height="auto" />
 
 ## TECH STACK 💻
 #### LANGUAGES
