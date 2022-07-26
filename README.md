@@ -19,7 +19,7 @@
 ## PROJECTS:
 | Project | Language/Tools/Sevices | Description | Link |
 | --- |:---:| --- | --- |
-| Portfolio Website | CSS, JS, HTML  | A Portfolio Webpage which consists all the details of Resume, Qualification and Personal Biodata | [Link](https://alpeshdshah.netlify.app/) |
+| Portfolio Website | ```.css``` ```.js``` ```.html```  | A Portfolio Webpage which consists all the details of Resume, Qualification and Personal Biodata | [Link](https://alpeshdshah.netlify.app/) |
 
 
 
